@@ -1,2 +1,1 @@
-# Northwindnew
-Details about Northwind
+# simpleweb
